@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5550470600066087905}
   - component: {fileID: 4060704512633798953}
   - component: {fileID: 3022543118726193951}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: EnemyBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,7 +103,7 @@ BoxCollider2D:
     m_Bits: 64
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 55
+    m_Bits: 183
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
